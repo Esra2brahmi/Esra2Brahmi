@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hey there 👋 I'm Isra!
 
-<!--
-**Esra2brahmi/Esra2Brahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 22-year-old Software Engineering student from Tunisia 🇹🇳  
+💡 Passionate about **learning**, building things, and solving problems — especially when life feels a bit overwhelming 😅  
+🧠 Currently diving into the worlds of **AI/ML** and **DevOps**, while still keeping my love for bdevelopement clean and strong.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- ⚙️ Building backend APIs with **FastAPI**, **SQLModel**, **SQLAlchemy** , **.Net Core** , **Falsk** ,**Node.js** 
+- 🐘 Working with **PostgreSQL**, **Docker**, and **Alembic**
+- 🌐 Built mobile-friendly websites using **Angular**, **React**, **Tailwind**, **NextJS**
+- 📦 I like keeping things clean, organized, and scalable
+
+---
+
+### 🌱 What I'm Learning
+- 🤖 Intro to **Machine Learning** & AI concepts (slowly but surely)
+- ☁️ DevOps tools and workflows — trying to understand how everything magically works in production
+- 🧩 Competitive programming (because why not suffer for fun? 😂)
+
+---
+
+### ⚡ A Bit More About Me
+- 🧋 I overthink, then code. Or code *to* stop overthinking
+- 🎯 Love figuring things out from done to scratch
+- ✍️ Yes , I'm so much into reverse engineering and I like getting into new fields each day
+
+---
+
+### 📫 Let's Connect
+- 💌 Email: `issra.brahmi12@gmail.com`
+
+---
+
+
