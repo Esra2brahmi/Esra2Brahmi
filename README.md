@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Isra!
 
 🎓 I'm a 22-year-old Software Engineering student from Tunisia 🇹🇳  
-💡 Passionate about **learning**, building things, and solving problems — especially when life feels a bit overwhelming 😅  
+💡 Passionate about **learning**, building things, and solving problems. 
 🧠 Currently diving into the worlds of **AI/ML** and **DevOps**, while still keeping my love for bdevelopement clean and strong.
 
 ---
