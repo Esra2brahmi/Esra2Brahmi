@@ -2,7 +2,7 @@
 
 🎓 I'm a 22-year-old Software Engineering student from Tunisia 🇹🇳  
 💡 Passionate about **learning**, building things, and solving problems. 
-🧠 Currently diving into the worlds of **AI/ML** and **DevOps**, while still keeping my love for bdevelopement clean and strong.
+🧠 Currently diving into the worlds of **AI/ML** and **DevOps**, while still keeping my love for software developement clean and strong.
 
 ---
 
