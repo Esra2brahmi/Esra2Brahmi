@@ -17,7 +17,7 @@
 ### 🌱 What I'm Learning
 - 🤖 Intro to **Machine Learning** & AI concepts (slowly but surely)
 - ☁️ DevOps tools and workflows — trying to understand how everything magically works in production
-- 🧩 Competitive programming (because why not suffer for fun? 😂)
+- 🧩 Competitive programming.
 
 ---
 
